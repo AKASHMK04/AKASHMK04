@@ -13,7 +13,7 @@
      Terminal GIF, themed around my own skills
 -->
 <div>
-    <img src="./assets/about_akash.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/about_akash (1).gif" alt="About Me Terminal GIF"/>
 </div>
 
 ### About Me
