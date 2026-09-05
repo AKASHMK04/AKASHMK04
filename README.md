@@ -1,16 +1,101 @@
-## Hi there 👋
 
-<!--
-**AKASHMK04/AKASHMK04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Hi! I'm Akash 👋 Welcome to my GitHub profile. -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=header" alt="header"/>
+
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=2500&pause=400&color=800000&width=500&lines=Hello%2C+it's+Akash;Full+Stack+Developer" alt="Full Stack Developer"/> </a>
+
+<div> <img src="./assets/about_akash.gif" alt="About Me Terminal GIF"/> </div>
+
+About Me
+I'm Akash, a Full Stack Developer interested in building practical, scalable and user-friendly web applications.
+
+I enjoy working across the frontend and backend, integrating APIs, working with databases, debugging applications, and turning real-world requirements into working software.
+
+Main Skills
+
+
+Currently Learning
+
+
+AWS
+
+Machine Learning
+
+Data Structures
+
+Projects
+🎧 English Examination Platform
+A full-stack examination platform used by students and staff of Velammal Engineering College.
+
+Student side
+
+Take English audio-based tests
+
+View test scores
+
+Edit permitted personal details
+
+Send score sheets to email
+
+Staff side
+
+View test and student information through a dashboard
+
+Upload audio and question files
+
+Schedule tests for a specific time
+
+Generate secret test codes that students must enter to access a test
+
+Upload student details and control which details students can edit
+
+Download individual student scores or complete class scores
+
+Technologies: React, Node.js, Express, MongoDB, REST APIs
+
+🌐 Velammal Engineering College Website
+The official website of Velammal Engineering College.
+
+We worked on testing and completing the website developed by our seniors. My work involved:
+
+Testing individual pages
+
+Finding and fixing bugs and UI issues
+
+Debugging functionality
+
+Checking frontend/backend integration
+
+Verifying that completed features worked correctly
+
+🏨 Digital Hostel — Velammal Engineering College
+A digital hostel platform for Velammal Engineering College.
+
+My work involved:
+
+Testing the application
+
+Identifying and debugging errors
+
+Fixing functionality issues
+
+Improving mobile responsiveness
+
+Checking and debugging backend integration
+
+🎓 Admission Portal — Upcoming
+An upcoming full-stack admission portal designed to handle the college admission process digitally, from the client side through the college administration side.
+
+What I'm Working Toward
+I'm currently expanding my skills in AWS, Machine Learning and Data Structures, while continuing to build stronger full-stack applications with JavaScript, React, Node.js, Express and MongoDB.
+
+Connect With Me
+<div> <a href="https://github.com/AKASHMK04"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/akash-ak-02baa1353/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:ashdow04@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://leetcode.com/u/Akash_MK_04/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"> </a> </div>
+
+GitHub
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer" alt="footer"/>
